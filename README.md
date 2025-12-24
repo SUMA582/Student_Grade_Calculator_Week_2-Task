@@ -11,7 +11,7 @@ The program takes a student’s name and marks as input, validates the input, ca
 This project is part of Week 2 – Making Decisions & Repeating Tasks in Python and focuses on applying real-life scenarios using Python fundamentals.
 
 
----
+--
 
 🎯 Project Objectives
 
